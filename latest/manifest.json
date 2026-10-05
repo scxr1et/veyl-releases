@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1",
-  "notes": "Знак приложения — настоящий, а не нарисованная буква. Аккаунт удаляется прямо из приложения. Настройки DNS и уведомлений заработали.",
-  "pub_date": "2026-09-25T13:06:49Z",
+  "version": "0.1.2",
+  "notes": "Понятные сообщения об ошибках подключения; пинги сохраняются между запусками.",
+  "pub_date": "2026-10-05T18:02:06Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://veyl.fun/updates/0.1.1/Veyl.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWENIMXJ3ODYvanplT01vTjRJbmhUNW4zOWR5bEt6ckJ2aE1wZzRvRmtyTGErOEtDU2tSZUNia3ZMWmwxZldhbmlsV1hCaUtPTWRwUWdvNnAxNUdHUmhQd1hJZEx4ZGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzQxNTkzCWZpbGU6VmV5bC5hcHAudGFyLmd6CmxnWi9FYUVya25wOGtsTE9pMjZLdWxCck9DODBtMTJTbDBkZVFmZ2ZRZDFteml4emd2MUpUbmx4bENWeEJPc1VhdnJwVmV0Z0pMUmVJbTF2K0xkNEF3PT0K"
+      "url": "https://veyl.fun/updates/0.1.2/Veyl.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWENIMXJ3ODYvajhBTHZ5eWVuRVIzdWhOVmZ3ZEhQRFpUMzdRTCs4WWt5QVg0Ukkxek9uMjg3VmUvd3NGQnJVbVRidzc0NVVVMWRvVVp1bzlqTG45QVgzMzdyd2RuK3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjIzMzE5CWZpbGU6VmV5bC5hcHAudGFyLmd6CmQyTU5zNklQakpzZWwvZUpTeW8xSm4yNEtNN0V6UEdKMHFsNWlzcCtET0ZSSmViWTVJL3ZqR1N1SUt0UHNkTGxVU0t3ejZPczFKZE9ZazcyOURBQkF3PT0K"
     }
   },
   "manual_download": {
-    "macos": "https://veyl.fun/updates/0.1.1/Veyl_0.1.1_aarch64.dmg"
+    "macos": "https://veyl.fun/updates/0.1.2/Veyl_0.1.2_aarch64.dmg"
   }
 }
