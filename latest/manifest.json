@@ -1,14 +1,14 @@
 {
-  "version": "0.1.2",
-  "notes": "Понятные сообщения об ошибках подключения; пинги сохраняются между запусками.",
-  "pub_date": "2026-10-05T18:02:06Z",
+  "version": "0.1.3",
+  "notes": "Экран устройств в аккаунте.",
+  "pub_date": "2026-10-05T23:50:44Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://veyl.fun/updates/0.1.2/Veyl.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWENIMXJ3ODYvajhBTHZ5eWVuRVIzdWhOVmZ3ZEhQRFpUMzdRTCs4WWt5QVg0Ukkxek9uMjg3VmUvd3NGQnJVbVRidzc0NVVVMWRvVVp1bzlqTG45QVgzMzdyd2RuK3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjIzMzE5CWZpbGU6VmV5bC5hcHAudGFyLmd6CmQyTU5zNklQakpzZWwvZUpTeW8xSm4yNEtNN0V6UEdKMHFsNWlzcCtET0ZSSmViWTVJL3ZqR1N1SUt0UHNkTGxVU0t3ejZPczFKZE9ZazcyOURBQkF3PT0K"
+      "url": "https://veyl.fun/updates/0.1.3/Veyl.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWENIMXJ3ODYvanpBMS9TT1V4ODB3V0pMRG9qMDQ5MUYxb1ZzeGpGYjljWVA3c2IvTnhLczNJUkpSZ0hwWEZqMVBLYUFRa3dzU0ROTkZiVTRuTkljUWF1cm5MZ2N3WkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjQ0MjQ0CWZpbGU6VmV5bC5hcHAudGFyLmd6CnpMTml1V3RSR3h5VmRGbmtaMXB4bkhGVUppTnI4V3FaS1ZaNmFjZWFlMGRBWTlwRGR6RUhKUkpvU2tLUDN2dkcvOVFrUWxzOWRiVWE5dVZtUFZwNUNnPT0K"
     }
   },
   "manual_download": {
-    "macos": "https://veyl.fun/updates/0.1.2/Veyl_0.1.2_aarch64.dmg"
+    "macos": "https://veyl.fun/updates/0.1.3/Veyl_0.1.3_aarch64.dmg"
   }
 }
