@@ -1,14 +1,19 @@
 {
   "version": "0.1.4",
   "notes": "Туннель больше не мигает при подключении.",
-  "pub_date": "2026-10-08T18:11:53Z",
+  "pub_date": "2026-10-08T18:57:28Z",
   "platforms": {
     "darwin-aarch64": {
       "url": "https://veyl.fun/updates/0.1.4/Veyl.app.tar.gz",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWENIMXJ3ODYvai9pOEY5VllxQ2lwR3poY3g2aDJVd3ZUaHg3L2UvemduR2hKWXF6c0lGOVY1VkpzaFgwMjkrZ0pjSEMreG1SM09IdllqRVJXQXVwaXNBVmM1bnRDL0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDgzMTEzCWZpbGU6VmV5bC5hcHAudGFyLmd6CklVZUgyOUpYZlNtRjdoK3NkUkZNd3hhMlNESDRnczNZbUVIUGh4eHNGNTFIdERMOHNkSFlWcUJwUk9GMjV1WmVPMVZoYmdyMEZmcUx4dWh2bVFPeEF3PT0K"
+    },
+    "windows-x86_64": {
+      "url": "https://veyl.fun/updates/0.1.4/Veyl_0.1.4_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWENIMXJ3ODYvajZlN1I3SnliUXdJYmo4MmVvdDdRR01vdEZRWi9LWnR3MEVBYWZ6T2ZsZWZYWWVsVDhrVVFnTnRPdlgzQXdPTXhBM3pJOEtmYzVMbXY3azJXNmZEOGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDg1NzY5CWZpbGU6VmV5bF8wLjEuNF94NjQtc2V0dXAuZXhlClFNWldUV0lXbUpMZzluOEl4ZFhrSUw5dUM0RGZpNFlGWFVOdXlnb2FWaFpEZEdoSEQ3OW1hQWRvN055OVNSU1BudFRlVHBuK0VaVlZsWEdDRFVkM0JRPT0K"
     }
   },
   "manual_download": {
-    "macos": "https://veyl.fun/updates/0.1.4/Veyl_0.1.4_aarch64.dmg"
+    "macos": "https://veyl.fun/updates/0.1.4/Veyl_0.1.4_aarch64.dmg",
+    "windows": "https://veyl.fun/updates/0.1.4/Veyl_0.1.4_x64-setup.exe"
   }
 }
