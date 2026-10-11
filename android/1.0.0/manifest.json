@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "versionCode": 10000,
+  "notes": "Первый релиз: обновление приложения прямо из приложения.",
+  "pub_date": "2026-10-11T18:40:48Z",
+  "apk": {
+    "url": "https://veyl.fun/updates/android/1.0.0/Veyl-1.0.0.apk",
+    "sha256": "77f9fc04f451570248493facfec85fc2bbaa58f43d35a8c17c9104eb6aaacf29"
+  },
+  "critical_floor": ""
+}
