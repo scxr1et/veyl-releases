@@ -1,0 +1,14 @@
+{
+  "version": "0.1.5",
+  "notes": "Туннель больше не мигает: обновляется и служебная часть, один раз понадобится пароль администратора.",
+  "pub_date": "2026-10-12T14:44:12Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://veyl.fun/updates/0.1.5/Veyl.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWENIMXJ3ODYvajE5dzhJTHltb0RuOE1kV0ZSczVEY3cwTXZ2aTN0TGtZand3TFpUNzh3d0FpblpOQlBMa1JuRzRDR3hMSExRNG1BVjZJN0MvV3J6cWpTdXM5dnZ1TUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODE2MjUyCWZpbGU6VmV5bC5hcHAudGFyLmd6CkQ4RGh5UXAvU0ZseUNBZjlybmNvUDlKNVhjaS9RUzhZQnNOemI1NG1hMjRvQkxUdk0wamNYdWROcWFMdC95dUl0Y1RtUUVVWDcwMFF4UEhmWEsvekFRPT0K"
+    }
+  },
+  "manual_download": {
+    "macos": "https://veyl.fun/updates/0.1.5/Veyl_0.1.5_aarch64.dmg"
+  }
+}
