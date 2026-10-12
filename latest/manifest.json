@@ -9,6 +9,7 @@
     }
   },
   "manual_download": {
-    "macos": "https://veyl.fun/updates/0.1.5/Veyl_0.1.5_aarch64.dmg"
+    "macos": "https://veyl.fun/updates/0.1.5/Veyl_0.1.5_aarch64.dmg",
+    "windows": "https://veyl.fun/updates/0.1.4/Veyl_0.1.4_x64-setup.exe"
   }
 }
