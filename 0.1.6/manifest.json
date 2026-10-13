@@ -1,0 +1,14 @@
+{
+  "version": "0.1.6",
+  "notes": "Приложение подписано Apple: macOS больше не ругается на неизвестного разработчика.",
+  "pub_date": "2026-10-13T09:45:07Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://veyl.fun/updates/0.1.6/Veyl.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWENIMXJ3ODYvanpvNUpTa2oyVHY0MTNkS2E2dVZpZ1dWS1NyYlZWVk9SUmxDeml3aklIOGNTclZMa2RWRGlydzFxemg1NDUrZG5oNVFsTVlnRUtHS01PL0pOSkNIVncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODg0Njc0CWZpbGU6VmV5bC5hcHAudGFyLmd6CllVN09CYmtRa3RzQjFsNDJwZUR1bENRd291eGNOenRKMEVOTXBpYVRRMjZNOE5OVXhxTitrb3RrYVFEbmtESVhYM21CMkFUQ3NXY3VCb0EwTFdaekFBPT0K"
+    }
+  },
+  "manual_download": {
+    "macos": "https://veyl.fun/updates/0.1.6/Veyl_0.1.6_aarch64.dmg"
+  }
+}
