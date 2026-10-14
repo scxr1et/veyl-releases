@@ -1,14 +1,14 @@
 {
-  "version": "0.1.6",
-  "notes": "Приложение подписано Apple: macOS больше не ругается на неизвестного разработчика.",
-  "pub_date": "2026-10-13T09:45:07Z",
+  "version": "0.1.7",
+  "notes": "Туннель не мигает при переключении; один раз понадобится пароль администратора.",
+  "pub_date": "2026-10-14T10:19:53Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://veyl.fun/updates/0.1.6/Veyl.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWENIMXJ3ODYvanpvNUpTa2oyVHY0MTNkS2E2dVZpZ1dWS1NyYlZWVk9SUmxDeml3aklIOGNTclZMa2RWRGlydzFxemg1NDUrZG5oNVFsTVlnRUtHS01PL0pOSkNIVncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODg0Njc0CWZpbGU6VmV5bC5hcHAudGFyLmd6CllVN09CYmtRa3RzQjFsNDJwZUR1bENRd291eGNOenRKMEVOTXBpYVRRMjZNOE5OVXhxTitrb3RrYVFEbmtESVhYM21CMkFUQ3NXY3VCb0EwTFdaekFBPT0K"
+      "url": "https://veyl.fun/updates/0.1.7/Veyl.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWENIMXJ3ODYvajhYejFiQmJYdzludS9WTDdES2VLK1Ezc0l1TktlKytPNnVSa0RIQUVTd0s3YmpSM2VjOHhFdmJ5WUNBaVhuUUZkVDNtM1BqS25xYnY4SWtQeDRjWWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTczMTc4CWZpbGU6VmV5bC5hcHAudGFyLmd6CmhIOCtZMjVmVHM2NmZtMUQxTFBlUFgxSWVKUmEyclZYUUlCODkrcFVGTk90d0R6R0pZVkdnaXFibWM4TjhLNkphZ0FIc3JqbXU1U1UvRk1nQmFUMkJBPT0K"
     }
   },
   "manual_download": {
-    "macos": "https://veyl.fun/updates/0.1.6/Veyl_0.1.6_aarch64.dmg"
+    "macos": "https://veyl.fun/updates/0.1.7/Veyl_0.1.7_aarch64.dmg"
   }
 }
